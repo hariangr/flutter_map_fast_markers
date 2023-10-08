@@ -11,10 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map:
-    git:
-      url: "https://github.com/KanarekApp/flutter_map"
-      ref: canary
+  flutter_map: ^5.0.0
   collection: ^1.15.0-nullsafety.4
 
 dev_dependencies:
